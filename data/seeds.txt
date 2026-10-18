@@ -3,6 +3,7 @@
 404Mayank/cachebeat
 adamholter/claude-subway-surfers
 agentic-workbench/agent-quick-menu
+ajwann/next-context
 AlexeyHRDesign/colorwheel
 alexjacobs08/guided-mr
 alexlifexyz/p3c-guard
